@@ -13,6 +13,11 @@
   <a href="LICENSE"><img src="https://img.shields.io/github/license/abhishek01dev/python-mastery-journey?style=for-the-badge&color=orange" alt="License" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Days-66+-blueviolet?style=for-the-badge" alt="66+ Days" /></a>
+</p>
+
+<p align="center">
+  <code>python</code> · <code>learning</code> · <code>beginner</code> · <code>advanced</code> · <code>daily-updates</code> · <code>programming</code> · <code>open-source</code> · <code>roadmap</code> · <code>python-tutorial</code> · <code>study-notes</code>
 </p>
 
 ---
@@ -43,21 +48,21 @@ This is **not** a reference manual. It's a **learning journal** — written like
 
 | # | Phase | Topics | Days | Status |
 |:-:|:------|:-------|:----:|:------:|
-| 01 | 🟢 **Core Fundamentals** | Syntax, Variables, Control Flow | Day 01–08 | 🔄 In Progress |
-| 02 | 🔵 **Data Structures** | Strings, Lists, Tuples, Sets, Dicts | Day 09–13 | ⏳ Upcoming |
-| 03 | 🟣 **Pythonic Thinking** | Mutability, Iterators, Generators | Day 14–18 | ⏳ Upcoming |
-| 04 | 🟠 **OOP** | Classes, Inheritance, Dataclasses | Day 19–25 | ⏳ Upcoming |
-| 05 | 🔴 **Error Handling** | Exceptions, Common Errors, Debugging | Day 26–28 | ⏳ Upcoming |
-| 06 | 🟡 **Modules & Envs** | Imports, Virtual Envs, pip | Day 29–33 | ⏳ Upcoming |
-| 07 | 🟤 **File Handling** | CSV, JSON, Pickle, Logging | Day 34–38 | ⏳ Upcoming |
-| 08 | 🟢 **Standard Library** | os, sys, pathlib, datetime, math | Day 39–43 | ⏳ Upcoming |
-| 09 | 🔵 **Numerical Computing** | NumPy Arrays, Broadcasting, LinAlg | Day 44–47 | ⏳ Upcoming |
-| 10 | 🟣 **Data Analysis** | Pandas DataFrames, GroupBy, Merging | Day 48–53 | ⏳ Upcoming |
-| 11 | 🟠 **Data Visualization** | Matplotlib, Seaborn, Plottypes | Day 54–56 | ⏳ Upcoming |
-| 12 | 🔴 **Async & Parallel** | Multithreading, Multiprocessing, Async | Day 57–60 | ⏳ Upcoming |
-| 13 | 🟡 **Web & APIs** | FastAPI, Pydantic | Day 61–62 | ⏳ Upcoming |
-| 14 | 🟤 **Production Python** | Clean Code, Modularity, Reading Code | Day 63–66 | ⏳ Upcoming |
-| 15 | 🏆 **Mini Projects & Capstone** | Calculator, Dashboards, Web Apps | Projects | ⏳ Upcoming |
+| 01 | 🟢 [**Core Fundamentals**](01_Python_Core_Fundamentals/) | Syntax, Variables, Control Flow | Day 01–08 | 🔄 In Progress |
+| 02 | 🔵 [**Data Structures**](02_Built_in_Data_Structures/) | Strings, Lists, Tuples, Sets, Dicts | Day 09–13 | ⏳ Upcoming |
+| 03 | 🟣 [**Pythonic Thinking**](03_Pythonic_Thinking/) | Mutability, Iterators, Generators | Day 14–18 | ⏳ Upcoming |
+| 04 | 🟠 [**OOP**](04_Object_Oriented_Programming/) | Classes, Inheritance, Dataclasses | Day 19–25 | ⏳ Upcoming |
+| 05 | 🔴 [**Error Handling**](05_Error_Handling_Debugging/) | Exceptions, Common Errors, Debugging | Day 26–28 | ⏳ Upcoming |
+| 06 | 🟡 [**Modules & Envs**](06_Modules_Packages_Environments/) | Imports, Virtual Envs, pip | Day 29–33 | ⏳ Upcoming |
+| 07 | 🟤 [**File Handling**](07_File_Handling_Serialization/) | CSV, JSON, Pickle, Logging | Day 34–38 | ⏳ Upcoming |
+| 08 | 🟢 [**Standard Library**](08_Standard_Library/) | os, sys, pathlib, datetime, math | Day 39–43 | ⏳ Upcoming |
+| 09 | 🔵 [**Numerical Computing**](09_Numerical_Computing/) | NumPy Arrays, Broadcasting, LinAlg | Day 44–47 | ⏳ Upcoming |
+| 10 | 🟣 [**Data Analysis**](10_Data_Analysis_Manipulation/) | Pandas DataFrames, GroupBy, Merging | Day 48–53 | ⏳ Upcoming |
+| 11 | 🟠 [**Data Visualization**](11_Data_Visualization/) | Matplotlib, Seaborn, EDA Plots | Day 54–56 | ⏳ Upcoming |
+| 12 | 🔴 [**Async & Parallel**](12_Asynchronous_Parallel_Python/) | Multithreading, Multiprocessing, Async | Day 57–60 | ⏳ Upcoming |
+| 13 | 🟡 [**Web & APIs**](13_Web_Modern_APIs/) | FastAPI, Pydantic | Day 61–62 | ⏳ Upcoming |
+| 14 | 🟤 [**Production Python**](14_Production_Ready_Python/) | Clean Code, Modularity, Reading Code | Day 63–66 | ⏳ Upcoming |
+| 15 | 🏆 [**Projects & Capstone**](15_Projects_Capstone/) | Calculator, Dashboards, Web Apps | Projects | ⏳ Upcoming |
 
 > **Legend:** ✅ Completed · 🔄 In Progress · ⏳ Upcoming
 
@@ -85,12 +90,13 @@ By the end of this journey, you'll be able to:
 
 - ✅ Write clean, Pythonic code with confidence
 - ✅ Understand core concepts: variables, loops, functions, OOP
-- ✅ Work with files (CSV, JSON, text)
-- ✅ Use popular libraries like NumPy, Pandas, and Matplotlib
-- ✅ Build real-world projects from scratch
-- ✅ Understand data structures & algorithms
+- ✅ Work with files (CSV, JSON, Pickle) and serialization
+- ✅ Use NumPy for numerical computing and linear algebra
+- ✅ Analyze data with Pandas and visualize with Matplotlib & Seaborn
+- ✅ Build real-world projects from scratch (APIs, dashboards, CLIs)
 - ✅ Handle concurrency with threading, multiprocessing, and asyncio
-- ✅ Write production-ready Python with type hints and best practices
+- ✅ Build web APIs with FastAPI and validate data with Pydantic
+- ✅ Write production-ready Python with clean code and modular design
 
 ---
 
@@ -100,7 +106,7 @@ By the end of this journey, you'll be able to:
 
 ```
 1️⃣  Star ⭐ this repo to save it & support the project
-2️⃣  Start with 01_Basics/day_01_hello_world/
+2️⃣  Start with 01_Python_Core_Fundamentals/day_01_syntax_indentation_pep8/
 3️⃣  Read the notes.md first — understand the concept
 4️⃣  Study the .py file — run it on your machine
 5️⃣  Try modifying the code and experimenting
@@ -122,7 +128,7 @@ git clone https://github.com/abhishek01dev/python-mastery-journey.git
 cd python-mastery-journey
 
 # Run any Python file
-python 01_Basics/day_01_hello_world/hello_world.py
+python 01_Python_Core_Fundamentals/day_01_syntax_indentation_pep8/syntax_indentation_pep8.py
 ```
 
 ---
@@ -150,7 +156,7 @@ python 01_Basics/day_01_hello_world/hello_world.py
 python-mastery-journey/
 │
 ├── README.md                  ← You are here!
-├── ROADMAP.md                 ← Full 56+ day checklist
+├── ROADMAP.md                 ← Full 66-day checklist
 ├── CONTRIBUTING.md            ← How to contribute
 ├── LICENSE                    ← MIT License
 ├── .gitignore                 ← Python .gitignore
@@ -174,11 +180,21 @@ python-mastery-journey/
 
 ---
 
+## 🏷️ GitHub Topics
+
+This repository uses the following topics for discoverability:
+
+`python` · `learning` · `beginner` · `advanced` · `daily-updates` · `programming` · `open-source` · `roadmap` · `python-tutorial` · `study-notes`
+
+> **How to add topics:** Go to your repo on GitHub → Click the ⚙️ gear icon next to "About" → Add the topics listed above.
+
+---
+
 ## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://github.com/abhishek01dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/abhishek01dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mranoint/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/abhishek01dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
